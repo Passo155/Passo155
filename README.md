@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Passo
 
-🔭 I’m currently working as a Professional Fullstack Software Developer
+🔭 I’m currently working as a Fullstack Software Developer
 <!--
 **Passo155/Passo155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
